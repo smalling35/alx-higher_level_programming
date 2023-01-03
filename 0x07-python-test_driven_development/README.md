@@ -1,0 +1,1 @@
+This is python programming which talks about how to write names in the right format and culculation of square to determine a certain constraints is follows, for instant one cannot be calculating for a square and be using character value the system will flag it as Error 
