@@ -1,0 +1,1 @@
+In This python lesson, we shall be learning how to combine data and functionality and wrap it inside an object. This know as the object oriented programming paradigm. IT is going to be awesome and cannot wait to get started!!
